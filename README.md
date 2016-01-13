@@ -1,6 +1,6 @@
 # TaaabsBehaviors.LazyLoading
 
-`TaaabsBehaviors.LazyLoading` is a Polymer Behavior that is delaying the instanciation of Widgets.
+`taaabs-lazy-loading-behavior` is a Polymer Behavior that is delaying the instanciation of Widgets.
 
 The purpose of this behavior is to handle Widgets using D3.js because
 those widgets need some values (displayed width,...) that are accessibles
