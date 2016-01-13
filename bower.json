@@ -1,0 +1,27 @@
+{
+  "name": "taaabs-lazy-loading",
+  "version": "1.0.0",
+  "description": "`TaaabsBehaviors.LazyLoading` is a Polymer Behavior that is delaying the instanciation of Widgets.",
+  "keywords": [
+    "web-components",
+    "polymer",
+    "taaabs"
+  ],
+  "authors": [
+    "TaaabsTeam"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TaaabsElements/taaabs-lazy-loading.git"
+  },
+  "main": "taaabs-lazy-loading.html",
+  "license": "https://github.com/TaaabsElements/taaabs-lazy-loading/LICENSE",
+  "dependencies": {
+    "polymer": "polymer/polymer#^1.0.0"
+  },
+  "devDependencies": {
+    "iron-component-page": "polymerelements/iron-component-page#^1.0.0",
+    "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0"
+  },
+  "ignore": []
+}
